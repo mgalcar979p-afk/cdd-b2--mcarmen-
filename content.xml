@@ -1,0 +1,1360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260426125242970A66</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260426125242LHM1Z3</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SDA: VIAJE AL INTERIOR DE LA VIDA: EXPLORANDO LA CÉLULA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Explorando la célula. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Mª del Carmen Gálvez Carmona</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto persigue que el alumnado de 4º ESO de la materia de Biología y Geología conozca desde un punto de vista competencial y divertido las células, sus tipos, diferencias, funcionalidad y orgánulos celulares. Para ello, seguirán el método científico y emplearán múltiples herramientas digitales como: Google Classroom, Padlet, Symbaloo, Canva y Audacity. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777200194502</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mofju7mz-ixhfjgqns</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Explorando la célula</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Explorando la célula</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Explorando la célula</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofju7mz-ixhfjgqns</odePageId>
+      <odeBlockId>block-1776890831248-wyd5ul52a</odeBlockId>
+      <blockName>Explorando la célula</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofju7mz-ixhfjgqns</odePageId>
+          <odeBlockId>block-1776890831248-wyd5ul52a</odeBlockId>
+          <odeIdeviceId>idevice-1776890831247-kxb4b37p3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1408px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_b6crrdb6crrdb6cr.png" width="1408" height="768" alt="" />
+<figcaption class="figcaption"><span class="author">Imagen Generada por IA</span>. <span class="title"><em>SdA: Viaje al interior de la vida: explorando la célula</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Gemini/Nanobanana. Uso educativo</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: justify;">SdA: Viaje al interior de la vida: explorando la célula. Imagen generada con inteligencia artificial. Gemini/Uso educativo.</p>
+<p style="text-align: justify;">·    <strong>  Título descriptivo:<span style="color: #e03e2d;"> “VIAJE AL INTERIOR DE LA VIDA: EXPLORANDO LA CÉLULA”.</span></strong></p>
+<p style="text-align: justify;">·       <strong>Centro de Interés o temática</strong>: Siguiendo los bloques de saberes básicos: “A. Proyecto Científico” y “B. La célula” de 4º ESO, según la Orden de 30 de mayo, de 2.023, se va a desarrollar una SdA con el título anteriormente indicado, cuyo centro de interés va a ser el concepto de célula, sus tipos, diferencias entre ellas y orgánulos celulares. </p>
+<p style="text-align: justify;">·      <strong> Nivel al que va dirigido: </strong>4º ESO. Esta propuesta de aprendizaje está diseñada para el alumnado de 4º de Educación Secundaria Obligatoria, una etapa en la que ya cuentan con los conocimientos básicos sobre la célula adquiridos en cursos anteriores. En este momento educativo, el alumnado puede entender procesos biológicos de mayor complejidad, como el ciclo celular, la mitosis y la meiosis, y también es capaz de aplicar el método científico en situaciones reales. Asimismo, muestran un mayor nivel de autonomía, lo que facilita la realización de prácticas de laboratorio con precisión, responsabilidad y capacidad crítica. Se trata de un curso idóneo para trabajar de manera conjunta la observación al microscopio, el análisis de resultados y la comunicación científica, impulsando así el desarrollo de competencias clave y de capacidad analítica y crítica. </p>
+<p style="text-align: justify;">·      <strong> Temporalización aproximada:</strong> 3 sesiones. El proyecto se desarrollará a lo largo de 3 sesiones, combinando trabajo previo en casa, gracias a la metodología (Flipped Learning) con actividades prácticas en el aula y en el laboratorio. Además, emplearán herramientas digitales, dado que en nuestro centro disponemos de aula de informática y carrito con portátiles disponibles. Las sesiones quedan planificadas de la siguiente forma: </p>
+<p style="text-align: justify;">Sesión 1: Introducción y recordatorio de saberes básicos de la célula mediante la metodología Flipped Learning (visualización previa en casa). En clase se revisan los conceptos clave (célula, tipos, orgánulos, ciclo celular) y se presenta la práctica de laboratorio.<br />Sesión 2: Realización de la práctica de laboratorio, siguiendo el informe de prácticas aportado por mí como docente,  donde el alumnado, en parejas, extrae células (mucosa oral y epidermis de cebolla), realiza las preparaciones y observa al microscopio, identificando estructuras celulares.<br />Sesión 3: Elaboración del informe de prácticas, mediante Canva, con el objetivo de mejorar su Competencia Digital y creación del podcast final, con Audacity, donde el alumnado expone sus conclusiones siguiendo el método científico.<br />Esta temporalización permite aprovechar el tiempo de aula para el trabajo práctico y favorecer un aprendizaje activo y significativo, donde el docente es guía de su aprendizaje, lo cual les motiva a aprender. </p>
+<p style="text-align: justify;">·      <strong> Materia implicada</strong>: Biología y Geología. La materia implicada es Biología y Geología, centrada en el estudio de la célula como unidad básica de los seres vivos, concretamente en esta Situación de Aprendizaje. A través de este proyecto se trabajan saberes básicos como: tipos de células y sus diferencias, orgánulos celulares y sus funciones, ciclo celular, mitosis y meiosis, observación microscópica y método científico. <br />Además, se desarrollan competencias específicas como el trabajo experimental en el laboratorio, la recogida y análisis de datos, manejo del microscopio, la elaboración de informes de prácticas de carácter científico, así como la comunicación de resultados, de acuerdo al método científico. </p>
+<p style="text-align: justify;">·        <strong>Idioma:</strong> Español. El proyecto se desarrollará en español, como lengua vehicular del centro. El empleo del castellano permite a nuestro alumnado: comprender los conceptos científicos con precisión, utilizar vocabulario específico de la materia, redactar el informe de prácticas, expresar de forma clara sus conclusiones en el podcast, etc. De este modo, se favorecen tanto la competencia científica como la lingüística, tanto de forma oral, como escrita, en un contexto académico y formal. </p>
+<p style="text-align: justify;">·     <strong>  Descripción general de lo que se pretende que el alumnado aprenda o trabaje:</strong> Se pretenden trabajar las competencias específicas 1, 3 y 4 de la materia de Biología y Geología, de acuerdo a los criterios de evaluación 1.2, 1.2. 3.1. 3.4. y 4.2., atendiendo a los saberes básicos relativos a la célula, sus tipos, diferencias, orgánulos celulares; para adentrarnos en las fases del ciclo celular, función biológica de mitosis y meiosis, así como sus fases y destrezas de observación de la mitosis al microscopio. </p>
+<p style="text-align: justify;">Para ello, el alumnado llevará a cabo una práctica de laboratorio previamente diseñada por mí como docente de Biología y Geología, en parejas y siguiendo el guion de prácticas facilitado, deben extraer células de la mucosa oral y células de la epidermis de cebolla, realizar las preparaciones y observarlas al microscopio óptico, identificando cada una de ellas y realizando imágenes de ello, las cuales incorporarán al informe de prácticas, que tendrán que realizar y cumplimentar, siguiendo el método científico. Podrán presentarlo empleando Canva. Finalmente, deben realizar un análisis final, a modo conclusión de la práctica, de forma expositiva realizando un pequeño podcast con Audacity, de aproximadamente dos minutos de duración, que deberán subir a la plataforma Google Classroom, para su evaluación. </p>
+<p style="text-align: justify;">·     <strong>  Justificación:</strong> El punto de partida de la propuesta será un Flipped Learning (en relación con la rutina de pensamiento) donde se trabajen los siguientes aspectos para un primer acercamiento, donde el alumnado pueda recordar los saberes básicos trabajados en cursos anteriores en nuestra materia: </p>
+<p style="text-align: justify;">o   Concepto de célula. </p>
+<p style="text-align: justify;">o   Tipos de célula. Clasificación y diferencias entre ellas. </p>
+<p style="text-align: justify;">o   Orgánulos celulares. </p>
+<p style="text-align: justify;">o   Fases del ciclo celular.</p>
+<p style="text-align: justify;">Tras su visualización, se trabajará en clase persiguiendo la consecución de las competencias específicas de la materia de Biología y Geología por medio de los saberes básicos de 4º ESO, que permitirán desarrollar, como se ha explicado en el apartado anterior, el producto final: la realización de la práctica de laboratorio de la extracción y observación de células al microscopio óptico, elaborando un informe de prácticas, siguiendo el método científico, que presentarán mediante Canva y realizando un análisis final a modo conclusión en versión digital, a modo podcast con Audacity, que editaran y subirán a Google Classroom. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776890831247-kxb4b37p3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1408px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_b6crrdb6crrdb6cr.png\" width=\"1408\" height=\"768\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Imagen Generada por IA</span>. <span class=\"title\"><em>SdA: Viaje al interior de la vida: explorando la célula</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Gemini/Nanobanana. Uso educativo</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\">SdA: Viaje al interior de la vida: explorando la célula. Imagen generada con inteligencia artificial. Gemini/Uso educativo.</p>\n<p style=\"text-align: justify;\">·    <strong>  Título descriptivo:<span style=\"color: #e03e2d;\"> “VIAJE AL INTERIOR DE LA VIDA: EXPLORANDO LA CÉLULA”.</span></strong></p>\n<p style=\"text-align: justify;\">·       <strong>Centro de Interés o temática</strong>: Siguiendo los bloques de saberes básicos: “A. Proyecto Científico” y “B. La célula” de 4º ESO, según la Orden de 30 de mayo, de 2.023, se va a desarrollar una SdA con el título anteriormente indicado, cuyo centro de interés va a ser el concepto de célula, sus tipos, diferencias entre ellas y orgánulos celulares. </p>\n<p style=\"text-align: justify;\">·      <strong> Nivel al que va dirigido: </strong>4º ESO. Esta propuesta de aprendizaje está diseñada para el alumnado de 4º de Educación Secundaria Obligatoria, una etapa en la que ya cuentan con los conocimientos básicos sobre la célula adquiridos en cursos anteriores. En este momento educativo, el alumnado puede entender procesos biológicos de mayor complejidad, como el ciclo celular, la mitosis y la meiosis, y también es capaz de aplicar el método científico en situaciones reales. Asimismo, muestran un mayor nivel de autonomía, lo que facilita la realización de prácticas de laboratorio con precisión, responsabilidad y capacidad crítica. Se trata de un curso idóneo para trabajar de manera conjunta la observación al microscopio, el análisis de resultados y la comunicación científica, impulsando así el desarrollo de competencias clave y de capacidad analítica y crítica. </p>\n<p style=\"text-align: justify;\">·      <strong> Temporalización aproximada:</strong> 3 sesiones. El proyecto se desarrollará a lo largo de 3 sesiones, combinando trabajo previo en casa, gracias a la metodología (Flipped Learning) con actividades prácticas en el aula y en el laboratorio. Además, emplearán herramientas digitales, dado que en nuestro centro disponemos de aula de informática y carrito con portátiles disponibles. Las sesiones quedan planificadas de la siguiente forma: </p>\n<p style=\"text-align: justify;\">Sesión 1: Introducción y recordatorio de saberes básicos de la célula mediante la metodología Flipped Learning (visualización previa en casa). En clase se revisan los conceptos clave (célula, tipos, orgánulos, ciclo celular) y se presenta la práctica de laboratorio.<br />Sesión 2: Realización de la práctica de laboratorio, siguiendo el informe de prácticas aportado por mí como docente,  donde el alumnado, en parejas, extrae células (mucosa oral y epidermis de cebolla), realiza las preparaciones y observa al microscopio, identificando estructuras celulares.<br />Sesión 3: Elaboración del informe de prácticas, mediante Canva, con el objetivo de mejorar su Competencia Digital y creación del podcast final, con Audacity, donde el alumnado expone sus conclusiones siguiendo el método científico.<br />Esta temporalización permite aprovechar el tiempo de aula para el trabajo práctico y favorecer un aprendizaje activo y significativo, donde el docente es guía de su aprendizaje, lo cual les motiva a aprender. </p>\n<p style=\"text-align: justify;\">·      <strong> Materia implicada</strong>: Biología y Geología. La materia implicada es Biología y Geología, centrada en el estudio de la célula como unidad básica de los seres vivos, concretamente en esta Situación de Aprendizaje. A través de este proyecto se trabajan saberes básicos como: tipos de células y sus diferencias, orgánulos celulares y sus funciones, ciclo celular, mitosis y meiosis, observación microscópica y método científico. <br />Además, se desarrollan competencias específicas como el trabajo experimental en el laboratorio, la recogida y análisis de datos, manejo del microscopio, la elaboración de informes de prácticas de carácter científico, así como la comunicación de resultados, de acuerdo al método científico. </p>\n<p style=\"text-align: justify;\">·        <strong>Idioma:</strong> Español. El proyecto se desarrollará en español, como lengua vehicular del centro. El empleo del castellano permite a nuestro alumnado: comprender los conceptos científicos con precisión, utilizar vocabulario específico de la materia, redactar el informe de prácticas, expresar de forma clara sus conclusiones en el podcast, etc. De este modo, se favorecen tanto la competencia científica como la lingüística, tanto de forma oral, como escrita, en un contexto académico y formal. </p>\n<p style=\"text-align: justify;\">·     <strong>  Descripción general de lo que se pretende que el alumnado aprenda o trabaje:</strong> Se pretenden trabajar las competencias específicas 1, 3 y 4 de la materia de Biología y Geología, de acuerdo a los criterios de evaluación 1.2, 1.2. 3.1. 3.4. y 4.2., atendiendo a los saberes básicos relativos a la célula, sus tipos, diferencias, orgánulos celulares; para adentrarnos en las fases del ciclo celular, función biológica de mitosis y meiosis, así como sus fases y destrezas de observación de la mitosis al microscopio. </p>\n<p style=\"text-align: justify;\">Para ello, el alumnado llevará a cabo una práctica de laboratorio previamente diseñada por mí como docente de Biología y Geología, en parejas y siguiendo el guion de prácticas facilitado, deben extraer células de la mucosa oral y células de la epidermis de cebolla, realizar las preparaciones y observarlas al microscopio óptico, identificando cada una de ellas y realizando imágenes de ello, las cuales incorporarán al informe de prácticas, que tendrán que realizar y cumplimentar, siguiendo el método científico. Podrán presentarlo empleando Canva. Finalmente, deben realizar un análisis final, a modo conclusión de la práctica, de forma expositiva realizando un pequeño podcast con Audacity, de aproximadamente dos minutos de duración, que deberán subir a la plataforma Google Classroom, para su evaluación. </p>\n<p style=\"text-align: justify;\">·     <strong>  Justificación:</strong> El punto de partida de la propuesta será un Flipped Learning (en relación con la rutina de pensamiento) donde se trabajen los siguientes aspectos para un primer acercamiento, donde el alumnado pueda recordar los saberes básicos trabajados en cursos anteriores en nuestra materia: </p>\n<p style=\"text-align: justify;\">o   Concepto de célula. </p>\n<p style=\"text-align: justify;\">o   Tipos de célula. Clasificación y diferencias entre ellas. </p>\n<p style=\"text-align: justify;\">o   Orgánulos celulares. </p>\n<p style=\"text-align: justify;\">o   Fases del ciclo celular.</p>\n<p style=\"text-align: justify;\">Tras su visualización, se trabajará en clase persiguiendo la consecución de las competencias específicas de la materia de Biología y Geología por medio de los saberes básicos de 4º ESO, que permitirán desarrollar, como se ha explicado en el apartado anterior, el producto final: la realización de la práctica de laboratorio de la extracción y observación de células al microscopio óptico, elaborando un informe de prácticas, siguiendo el método científico, que presentarán mediante Canva y realizando un análisis final a modo conclusión en versión digital, a modo podcast con Audacity, que editaran y subirán a Google Classroom. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofju7n3-g0md0ok5w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Consejos de seguridad: Protección de Datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Consejos de seguridad: Protección de Datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Consejos de seguridad: Protección de Datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofju7n3-g0md0ok5w</odePageId>
+      <odeBlockId>block-1776880586731-m2ewmxp9z</odeBlockId>
+      <blockName>Trabajando en un entorno digital.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofju7n3-g0md0ok5w</odePageId>
+          <odeBlockId>block-1776880586731-m2ewmxp9z</odeBlockId>
+          <odeIdeviceId>idevice-1776880586729-zvzl4d87a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Trabajar en un entorno digital educativo ofrece posibilidades infinitas, pero también exige una responsabilidad compartida para garantizar que el aula sea un espacio seguro. La protección de datos y la ciberseguridad no son solo requisitos legales (como el cumplimiento del RGPD), sino pilares fundamentales para proteger la identidad y la privacidad de menores y docentes. Para navegar con confianza, es esencial adoptar hábitos proactivos: desde el uso de contraseñas robustas y la doble autenticación, hasta la selección crítica de herramientas digitales que respeten la soberanía de la información. Al integrar estas medidas de seguridad de forma natural en el día a día, no solo protegemos nuestros archivos y dispositivos, sino que educamos con el ejemplo en una ciudadanía digital ética y resiliente. </p>
+<p style="text-align: justify;">A continuación se muestra una infografía en la que aparecen una serie de consejos para trabajar en entornos digitales de forma segura. </p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+<p style="text-align: justify;">SdA: Viaje al interior de la vida: explorando la célula. Consejos de seguridad. Infografía de MªCarmen Gálvez Carmona.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776880586729-zvzl4d87a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Trabajar en un entorno digital educativo ofrece posibilidades infinitas, pero también exige una responsabilidad compartida para garantizar que el aula sea un espacio seguro. La protección de datos y la ciberseguridad no son solo requisitos legales (como el cumplimiento del RGPD), sino pilares fundamentales para proteger la identidad y la privacidad de menores y docentes. Para navegar con confianza, es esencial adoptar hábitos proactivos: desde el uso de contraseñas robustas y la doble autenticación, hasta la selección crítica de herramientas digitales que respeten la soberanía de la información. Al integrar estas medidas de seguridad de forma natural en el día a día, no solo protegemos nuestros archivos y dispositivos, sino que educamos con el ejemplo en una ciudadanía digital ética y resiliente. </p>\n<p style=\"text-align: justify;\">A continuación se muestra una infografía en la que aparecen una serie de consejos para trabajar en entornos digitales de forma segura. </p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>\n<p style=\"text-align: justify;\">SdA: Viaje al interior de la vida: explorando la célula. Consejos de seguridad. Infografía de MªCarmen Gálvez Carmona.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofju7n4-i0wk7qif9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofju7n4-i0wk7qif9</odePageId>
+      <odeBlockId>block-1776881412134-tzue2zgm1</odeBlockId>
+      <blockName>Curación de contenido</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofju7n4-i0wk7qif9</odePageId>
+          <odeBlockId>block-1776881412134-tzue2zgm1</odeBlockId>
+          <odeIdeviceId>idevice-1776881412132-l9v2218j8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La riqueza de un entorno educativo reside en su capacidad para ofrecer diversas puertas de entrada al conocimiento, entendiendo que no existe un "alumno promedio" sino una realidad diversa en el aula. Disponer de múltiples recursos y materiales didácticos es el eje vertebrador de una práctica inclusiva, ya que permite que cada estudiante encuentre el soporte que mejor se adapte a su estilo de procesamiento, ritmo y motivación. Esta variedad es el corazón del <strong>Diseño Universal para el Aprendizaje (DUA), </strong>cuyo principio fundamental es proporcionar múltiples formas de representación, acción y expresión para eliminar las barreras al aprendizaje. Al diversificar las herramientas —desde recursos visuales y manipulativos hasta soportes digitales y auditivos—, no solo garantizamos la , sino que transformamos la educación en un proceso equitativo donde la singularidad de cada alumno/a se convierte en una oportunidad de éxito, y no en un obstáculo.</p>
+<p style="text-align: justify;">A continuación, puedes acceder al <strong>Padlet </strong>y a <strong>Symbaloo</strong> donde se enceuntran todos los enlaces y recursos para que puedas trabajar el presente proyecto de Biología y Geología.</p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/p49skg3fvysyfpzn" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776881412132-l9v2218j8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La riqueza de un entorno educativo reside en su capacidad para ofrecer diversas puertas de entrada al conocimiento, entendiendo que no existe un \"alumno promedio\" sino una realidad diversa en el aula. Disponer de múltiples recursos y materiales didácticos es el eje vertebrador de una práctica inclusiva, ya que permite que cada estudiante encuentre el soporte que mejor se adapte a su estilo de procesamiento, ritmo y motivación. Esta variedad es el corazón del <strong>Diseño Universal para el Aprendizaje (DUA), </strong>cuyo principio fundamental es proporcionar múltiples formas de representación, acción y expresión para eliminar las barreras al aprendizaje. Al diversificar las herramientas —desde recursos visuales y manipulativos hasta soportes digitales y auditivos—, no solo garantizamos la , sino que transformamos la educación en un proceso equitativo donde la singularidad de cada alumno/a se convierte en una oportunidad de éxito, y no en un obstáculo.</p>\n<p style=\"text-align: justify;\">A continuación, puedes acceder al <strong>Padlet </strong>y a <strong>Symbaloo</strong> donde se enceuntran todos los enlaces y recursos para que puedas trabajar el presente proyecto de Biología y Geología.</p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/p49skg3fvysyfpzn\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mofju7n4-i0wk7qif9</odePageId>
+      <odeBlockId>block-1776881670351-miomo8eq6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofju7n4-i0wk7qif9</odePageId>
+          <odeBlockId>block-1776881670351-miomo8eq6</odeBlockId>
+          <odeIdeviceId>idevice-1776881670350-ewlsjtw3m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se muestran los recursos en mi tablero de Symbaloo, donde puedes encontrar todos estos recursos organizados de forma visual e intuitiva: </p>
+<p><img src="{{context_path}}/content/resources/captura symbaloo.png" width="1511" height="806" alt="" /><br /></p>
+<p><a href="https://www.symbaloo.com/shared/AAAABEpBh8oAA41_l108sA==" title="ENLACE A SYMBALOO" target="_blank" rel="noopener">ENLACE A SYMBALOO</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776881670350-ewlsjtw3m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se muestran los recursos en mi tablero de Symbaloo, donde puedes encontrar todos estos recursos organizados de forma visual e intuitiva: </p>\n<p><img src=\"{{context_path}}/content/resources/captura symbaloo.png\" width=\"1511\" height=\"806\" alt=\"\" /><br /></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAABEpBh8oAA41_l108sA==\" title=\"ENLACE A SYMBALOO\" target=\"_blank\" rel=\"noopener\">ENLACE A SYMBALOO</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofju7n5-edr6qycn3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica: Asociamos tareas a criterios de evaluación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica: Asociamos tareas a criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Asociamos tareas a criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía Didáctica: Asociamos tareas a criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofju7n5-edr6qycn3</odePageId>
+      <odeBlockId>block-1776882869852-r0isanhjs</odeBlockId>
+      <blockName>Tabla de vinculaciones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofju7n5-edr6qycn3</odePageId>
+          <odeBlockId>block-1776882869852-r0isanhjs</odeBlockId>
+          <odeIdeviceId>idevice-1776882869850-m5pg5btha</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1408px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_c9zb9hc9zb9hc9zb.png" width="1408" height="768" alt="" />
+<figcaption class="figcaption"><a href="Imagen generado por IA" class="author" target="_blank" rel="noopener">Imagen generado por IA</a>. <span class="title"><em>SdA: Viaje al interior de la vida: explorando la célula.</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Gemini/Nanobanana. Uso educativo</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: justify;">En el <strong>diseño de esta situación de aprendizaje </strong>para <strong>4º ESO</strong> en la materia de <strong>Biología y Geología</strong>, la vinculación explícita de los criterios de evaluación con las tareas propuestas es el mecanismo que garantiza la coherencia pedagógica y la transparencia del proceso. No se trata simplemente de calificar un producto final, sino de utilizar los criterios como la "hoja de ruta" que define qué competencias específicas esperamos que el alumnado desarrolle en cada actividad. Al asociar cada tarea a uno o varios criterios, transformamos la <strong>evaluación</strong> en un <strong>proceso formativo y objetivo,</strong> permitiendo que los estudiantes comprendan exactamente qué se espera de ellos y qué dimensiones de su aprendizaje se están valorando. Esta alineación no solo facilita la labor docente al simplificar la toma de datos mediante r<strong>úbricas o escalas de logro</strong>, sino que también fomenta la autorregulación del alumnado, quien deja de trabajar para "aprobar" y comienza a trabajar para alcanzar los estándares de desempeño competencial establecidos en el currículo.</p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;"><embed width="100%" height="300" src="{{context_path}}/content/resources/Tarea 6.1. MCarmen Gálvez Carmona.pdf" type="application/pdf"></embed></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776882869850-m5pg5btha","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1408px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_c9zb9hc9zb9hc9zb.png\" width=\"1408\" height=\"768\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"Imagen generado por IA\" class=\"author\" target=\"_blank\" rel=\"noopener\">Imagen generado por IA</a>. <span class=\"title\"><em>SdA: Viaje al interior de la vida: explorando la célula.</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Gemini/Nanobanana. Uso educativo</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\">En el <strong>diseño de esta situación de aprendizaje </strong>para <strong>4º ESO</strong> en la materia de <strong>Biología y Geología</strong>, la vinculación explícita de los criterios de evaluación con las tareas propuestas es el mecanismo que garantiza la coherencia pedagógica y la transparencia del proceso. No se trata simplemente de calificar un producto final, sino de utilizar los criterios como la \"hoja de ruta\" que define qué competencias específicas esperamos que el alumnado desarrolle en cada actividad. Al asociar cada tarea a uno o varios criterios, transformamos la <strong>evaluación</strong> en un <strong>proceso formativo y objetivo,</strong> permitiendo que los estudiantes comprendan exactamente qué se espera de ellos y qué dimensiones de su aprendizaje se están valorando. Esta alineación no solo facilita la labor docente al simplificar la toma de datos mediante r<strong>úbricas o escalas de logro</strong>, sino que también fomenta la autorregulación del alumnado, quien deja de trabajar para \"aprobar\" y comienza a trabajar para alcanzar los estándares de desempeño competencial establecidos en el currículo.</p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"><embed width=\"100%\" height=\"300\" src=\"{{context_path}}/content/resources/Tarea 6.1. MCarmen Gálvez Carmona.pdf\" type=\"application/pdf\"></embed></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofju7n6-nq7zmm9eh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal de actividades</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal de actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal de actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofju7n6-nq7zmm9eh</odePageId>
+      <odeBlockId>block-1776891592077-fkrfxdpog</odeBlockId>
+      <blockName>Hoja de ruta con Mindmeister</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofju7n6-nq7zmm9eh</odePageId>
+          <odeBlockId>block-1776891592077-fkrfxdpog</odeBlockId>
+          <odeIdeviceId>idevice-1776891592072-pvf85vvb0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En el marco del <strong>modelo pedagógico actual en</strong> la Educación Secundaria, la <strong>secuencia temporal de las actividades</strong> no debe entenderse como un simple listado cronológico, sino como un itinerario estratégico y cohesionado que guía al alumnado hacia el <strong>desarrollo de competencias.</strong> Esta línea temporal estructura la situación de aprendizaje en fases progresivas —desde la <strong>motivación inicial </strong>y la <strong>detección de ideas previas</strong>, pasando por la <strong>investigación y el andamiaje</strong> de saberes, hasta llegar a la creación de un <strong>producto final</strong> y la reflexión técnica—. La importancia de mantener un orden lógico y una secuencia fluida radica en que permite al estudiante construir su conocimiento de manera acumulativa y con sentido, asegurando que cada tarea sea el cimiento necesario para la siguiente. Así, la <strong>planificación temporal </strong>se convierte en una herramienta de equidad que facilita la gestión del aula y garantiza que el proceso de enseñanza-aprendizaje sea, ante todo, un camino coherente hacia el éxito educativo.</p>
+<p style="text-align: justify;">En el siguiente enlace se puede acceder y consultar el mapa mental en el que se incluyen las distintas sesiones y actividades planteadas de la presente SdA, creado con <strong>Mindmeister:</strong></p>
+<p style="text-align: justify;"><a href="https://www.mindmeister.com/app/map/3981802322?t=gVM1qhBIZJ" title="">https://www.mindmeister.com/app/map/3981802322?t=gVM1qhBIZJ</a></p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/mi mapa mental.png" width="100%" alt="" /></p>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776891592072-pvf85vvb0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En el marco del <strong>modelo pedagógico actual en</strong> la Educación Secundaria, la <strong>secuencia temporal de las actividades</strong> no debe entenderse como un simple listado cronológico, sino como un itinerario estratégico y cohesionado que guía al alumnado hacia el <strong>desarrollo de competencias.</strong> Esta línea temporal estructura la situación de aprendizaje en fases progresivas —desde la <strong>motivación inicial </strong>y la <strong>detección de ideas previas</strong>, pasando por la <strong>investigación y el andamiaje</strong> de saberes, hasta llegar a la creación de un <strong>producto final</strong> y la reflexión técnica—. La importancia de mantener un orden lógico y una secuencia fluida radica en que permite al estudiante construir su conocimiento de manera acumulativa y con sentido, asegurando que cada tarea sea el cimiento necesario para la siguiente. Así, la <strong>planificación temporal </strong>se convierte en una herramienta de equidad que facilita la gestión del aula y garantiza que el proceso de enseñanza-aprendizaje sea, ante todo, un camino coherente hacia el éxito educativo.</p>\n<p style=\"text-align: justify;\">En el siguiente enlace se puede acceder y consultar el mapa mental en el que se incluyen las distintas sesiones y actividades planteadas de la presente SdA, creado con <strong>Mindmeister:</strong></p>\n<p style=\"text-align: justify;\"><a href=\"https://www.mindmeister.com/app/map/3981802322?t=gVM1qhBIZJ\" title=\"\">https://www.mindmeister.com/app/map/3981802322?t=gVM1qhBIZJ</a></p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/mi mapa mental.png\" width=\"100%\" alt=\"\" /></p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofju7n6-aqv13aj4k</odePageId>
+  <odeParentPageId>page-mofju7n6-nq7zmm9eh</odeParentPageId>
+  <pageName>Actividad 1: Visualización vídeo introductorio. Flipped Learning</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1: Visualización vídeo introductorio. Flipped Learning</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1: </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 1: Visualización vídeo introductorio. Flipped Learning</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofju7n6-aqv13aj4k</odePageId>
+      <odeBlockId>block-1776894457565-ar65g7b0z</odeBlockId>
+      <blockName>Actividad 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofju7n6-aqv13aj4k</odePageId>
+          <odeBlockId>block-1776894457565-ar65g7b0z</odeBlockId>
+          <odeIdeviceId>idevice-1776894457561-h3l5zzzbk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1408px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_okwqw0okwqw0okwq.png" width="1408" height="768" alt="" />
+<figcaption class="figcaption"><span class="author">Imagen generada con IA</span>. <span class="title"><em>SdA: Viaje al interior de la vida: explorando la célula</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Gemini/Nanobanana. Uso educativo.</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>La <strong>actividad consiste</strong> en la visualización de un  vídeo y contestar una serie de preguntas, modo introducción en casa, para aprovechar así la clase presencial para profundizar en los conceptos. </p>
+<p>Se realizará de <strong>forma individual. (Agrupamientos)</strong></p>
+<p>Su <strong>duración</strong> será aproximadamente de unos 25/30 minutos. </p>
+<p>Las <strong>herramientas </strong>que se necesitan y que se emplearán son: ordenador o tablet con conexión a Internet, Google <strong>Classroom</strong>, donde estará el enlace que dará acceso al mismo y <strong>Padlet. </strong></p>
+<p><strong>Ubicación</strong>: desde casa. </p>
+<p><br /></p>
+<figure class="exe-figure exe-media position-center license-custom" style="width: 560px;"><iframe width="560" height="314" src="https://www.youtube.com/embed/2ZAnSZxvNig" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="title"><em>La célula animal y sus orgánulos celulares. Bioesosfera. Youtube</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Bioesosfera. (Licencia de Youtube estándar).</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776894457561-h3l5zzzbk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1408px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_okwqw0okwqw0okwq.png\" width=\"1408\" height=\"768\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Imagen generada con IA</span>. <span class=\"title\"><em>SdA: Viaje al interior de la vida: explorando la célula</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Gemini/Nanobanana. Uso educativo.</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>La <strong>actividad consiste</strong> en la visualización de un  vídeo y contestar una serie de preguntas, modo introducción en casa, para aprovechar así la clase presencial para profundizar en los conceptos. </p>\n<p>Se realizará de <strong>forma individual. (Agrupamientos)</strong></p>\n<p>Su <strong>duración</strong> será aproximadamente de unos 25/30 minutos. </p>\n<p>Las <strong>herramientas </strong>que se necesitan y que se emplearán son: ordenador o tablet con conexión a Internet, Google <strong>Classroom</strong>, donde estará el enlace que dará acceso al mismo y <strong>Padlet. </strong></p>\n<p><strong>Ubicación</strong>: desde casa. </p>\n<p><br /></p>\n<figure class=\"exe-figure exe-media position-center license-custom\" style=\"width: 560px;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/2ZAnSZxvNig\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"title\"><em>La célula animal y sus orgánulos celulares. Bioesosfera. Youtube</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Bioesosfera. (Licencia de Youtube estándar).</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofju7n6-djwf8ko1w</odePageId>
+  <odeParentPageId>page-mofju7n6-nq7zmm9eh</odeParentPageId>
+  <pageName>Actividad 2: Trabajo diario/portfolio</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2: Trabajo diario/portfolio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2: </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 2: Trabajo diario/portfolio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofju7n6-djwf8ko1w</odePageId>
+      <odeBlockId>block-1776895109991-20vzpolst</odeBlockId>
+      <blockName>Actividad 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofju7n6-djwf8ko1w</odePageId>
+          <odeBlockId>block-1776895109991-20vzpolst</odeBlockId>
+          <odeIdeviceId>idevice-1776895109989-wfw6wpkgi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1408px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_o6ytbqo6ytbqo6yt (1).png" width="1408" height="768" alt="" />
+<figcaption class="figcaption"><span class="author">Imagen generada por IA.</span>. <span class="title"><em>SdA: Viaje al interior de la vida: explorando la célula. Portfolio.</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Gemini/Nanobanana. Uso educativo</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>El <strong>trabajo diario o portfolio</strong>, se llevará a cabo en todas las sesiones de la presente SdA. </p>
+<p>Consiste en realizar la portada y el índice de la SdA en el cuaderno de clase o portfolio, copiar los esquemas de la pizarra y realizar, así como corregir las actividades diarias. </p>
+<p>Se realizará de forma individual.<strong> (Agrupamientos)</strong>.</p>
+<p><strong>Tiempo</strong>: 20 minutos aproximadamente, a lo largo de todas las sesiones que componen la SdA. </p>
+<p><strong>Herramientas:</strong> Cuaderno de clase/portfolio, libro de texto digital, pizarras de tiza y digital. </p>
+<p><strong>Ubicación: </strong>aula clase de referencia. </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776895109989-wfw6wpkgi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1408px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_o6ytbqo6ytbqo6yt (1).png\" width=\"1408\" height=\"768\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Imagen generada por IA.</span>. <span class=\"title\"><em>SdA: Viaje al interior de la vida: explorando la célula. Portfolio.</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Gemini/Nanobanana. Uso educativo</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>El <strong>trabajo diario o portfolio</strong>, se llevará a cabo en todas las sesiones de la presente SdA. </p>\n<p>Consiste en realizar la portada y el índice de la SdA en el cuaderno de clase o portfolio, copiar los esquemas de la pizarra y realizar, así como corregir las actividades diarias. </p>\n<p>Se realizará de forma individual.<strong> (Agrupamientos)</strong>.</p>\n<p><strong>Tiempo</strong>: 20 minutos aproximadamente, a lo largo de todas las sesiones que componen la SdA. </p>\n<p><strong>Herramientas:</strong> Cuaderno de clase/portfolio, libro de texto digital, pizarras de tiza y digital. </p>\n<p><strong>Ubicación: </strong>aula clase de referencia. </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofju7n7-p7bha0iw6</odePageId>
+  <odeParentPageId>page-mofju7n6-nq7zmm9eh</odeParentPageId>
+  <pageName>Actividad 3: Práctica de laboratorio</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3: Práctica de laboratorio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 3: Práctica de laboratorio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofju7n7-p7bha0iw6</odePageId>
+      <odeBlockId>block-1776895883401-k9b7gvou4</odeBlockId>
+      <blockName>Actividad 3</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofju7n7-p7bha0iw6</odePageId>
+          <odeBlockId>block-1776895883401-k9b7gvou4</odeBlockId>
+          <odeIdeviceId>idevice-1776895883398-uhhmjl9rn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1408px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_tp58w3tp58w3tp58.png" width="1408" height="768" alt="" />
+<figcaption class="figcaption"><span class="author">Imagen generada con IA</span>. <span class="title"><em>SdA: Viaje al interior de la vida: explorando la célula</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Gemini/Nanobanana. Uso educativo.</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: justify;">La actividad 3 consiste en realizar una<strong> práctica de laboratorio </strong>para <strong>visualizar células eucariotas animales</strong> procedentes de la <strong>mucosa oral</strong> y<strong> células eucariotas vegetales de la epidermis de cebolla</strong>, con objetivo de establecer un aprendizaje competencial, de acuerdo a la normativa vigente. </p>
+<p style="text-align: justify;">Se llevará a cabo en parejas. <strong>(Agrupamiento). </strong></p>
+<p style="text-align: justify;"><strong>Tiempo:</strong> 1 sesión de 60 minutos, aproximadamente. </p>
+<p style="text-align: justify;"><strong>Herramientas a emplear</strong>: Guion de prácticas que el alumnado tiene disponible en <strong>Google Classroom</strong> y en <strong>Padlet,</strong> <strong>microscopio óptico, cuaderno de clase/portfolio, material de laboratorio y útiles de escritura. </strong></p>
+<p style="text-align: justify;">Ubicación: la práctica científica, se llevará a cabo en el<strong> laboratorio </strong>del centro. </p>
+<p style="text-align: justify;"><embed width="100%" height="300" src="{{context_path}}/content/resources/PRESENTACIÓN DE LA PRÁCTICA.pdf" type="application/pdf"></embed></p>
+<p style="text-align: justify;"><embed width="100%" height="300" src="{{context_path}}/content/resources/Informe de prácticas de laboratorio .pdf" type="application/pdf"></embed></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776895883398-uhhmjl9rn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1408px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_tp58w3tp58w3tp58.png\" width=\"1408\" height=\"768\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Imagen generada con IA</span>. <span class=\"title\"><em>SdA: Viaje al interior de la vida: explorando la célula</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Gemini/Nanobanana. Uso educativo.</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\">La actividad 3 consiste en realizar una<strong> práctica de laboratorio </strong>para <strong>visualizar células eucariotas animales</strong> procedentes de la <strong>mucosa oral</strong> y<strong> células eucariotas vegetales de la epidermis de cebolla</strong>, con objetivo de establecer un aprendizaje competencial, de acuerdo a la normativa vigente. </p>\n<p style=\"text-align: justify;\">Se llevará a cabo en parejas. <strong>(Agrupamiento). </strong></p>\n<p style=\"text-align: justify;\"><strong>Tiempo:</strong> 1 sesión de 60 minutos, aproximadamente. </p>\n<p style=\"text-align: justify;\"><strong>Herramientas a emplear</strong>: Guion de prácticas que el alumnado tiene disponible en <strong>Google Classroom</strong> y en <strong>Padlet,</strong> <strong>microscopio óptico, cuaderno de clase/portfolio, material de laboratorio y útiles de escritura. </strong></p>\n<p style=\"text-align: justify;\">Ubicación: la práctica científica, se llevará a cabo en el<strong> laboratorio </strong>del centro. </p>\n<p style=\"text-align: justify;\"><embed width=\"100%\" height=\"300\" src=\"{{context_path}}/content/resources/PRESENTACIÓN DE LA PRÁCTICA.pdf\" type=\"application/pdf\"></embed></p>\n<p style=\"text-align: justify;\"><embed width=\"100%\" height=\"300\" src=\"{{context_path}}/content/resources/Informe de prácticas de laboratorio .pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777195151240-3hsk0p0at</odePageId>
+  <odeParentPageId>page-mofju7n6-nq7zmm9eh</odeParentPageId>
+  <pageName>Actividad 4: Atlas celular mudo</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4: Atlas celular mudo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 4: Atlas celular mudo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777195151240-3hsk0p0at</odePageId>
+      <odeBlockId>block-1777195151240-fgrzipitp</odeBlockId>
+      <blockName>Actividad 4</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777195151240-3hsk0p0at</odePageId>
+          <odeBlockId>block-1777195151240-fgrzipitp</odeBlockId>
+          <odeIdeviceId>idevice-1777195151240-3nid3lz7t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1408px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_up9tl4up9tl4up9t.png" title="SdA: Viaje al interior de la vida: explorando la célula" width="1408" height="768" alt="" />
+<figcaption class="figcaption"><span class="author">Imagen generada con IA</span>. <span class="title"><em>SdA: Viaje al interior de la vida: explorando la célula.</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Gemini/Nanobanana. Uso educativo.</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: justify;">Dominar el <strong>estudio de la célula</strong> a través de un <strong>atlas mudo</strong> no es solo un ejercicio de memoria, sino una herramienta fundamental para comprender la arquitectura de la vida. Al identificar visualmente la <strong>estructura de las células</strong> <strong>procariotas y eucariotas (animales y vegetales),</strong> el alumnado logra integrar cómo la <strong>morfología celular</strong> determina su <strong>función biológica.</strong> El reconocimiento preciso de cada orgánulo —como las<strong> mitocondrias</strong> para la energía, el <strong>núcleo</strong> para la herencia o los <strong>cloroplastos</strong> para la fotosíntesis— permite que el estudiante deje de ver conceptos aislados y empiece a interpretar la célula como una maquinaria perfectamente coordinada. Esta destreza visual es el primer paso crítico para avanzar con éxito hacia disciplinas más complejas como la <strong>histología, la genética o la fisiología médica</strong>.</p>
+<p style="text-align: justify;">Para ello, <strong>la actividad consiste</strong> en la <strong>cumplimentación y entrega del atlas mudo</strong> que aparece <strong>adjunto como PDF</strong> debajo de los distintos tipos de células y sus orgánulos.</p>
+<p style="text-align: justify;">Se realizará por parejas <strong>(agrupamiento).</strong> </p>
+<p style="text-align: justify;">La <strong>duración </strong>aproximada de la actividad es de<strong> 30 minutos. </strong> </p>
+<p style="text-align: justify;">Como <strong>herramientas</strong> se necesitan la <strong>ficha del atlas mudo</strong> en cuestión que se adjunta debajo, y que también está disponible en formato digital en <strong>Google Classroom</strong> y en<strong> Padlet. </strong></p>
+<p style="text-align: justify;">La actividad se llevará a cabo en el <strong>aula. (Ubicación).</strong> </p>
+<p style="text-align: justify;"><embed width="100%" height="300" src="{{context_path}}/content/resources/ATLAS CÉLULAS.pdf" type="application/pdf"></embed></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777195151240-3nid3lz7t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1408px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_up9tl4up9tl4up9t.png\" title=\"SdA: Viaje al interior de la vida: explorando la célula\" width=\"1408\" height=\"768\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Imagen generada con IA</span>. <span class=\"title\"><em>SdA: Viaje al interior de la vida: explorando la célula.</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Gemini/Nanobanana. Uso educativo.</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\">Dominar el <strong>estudio de la célula</strong> a través de un <strong>atlas mudo</strong> no es solo un ejercicio de memoria, sino una herramienta fundamental para comprender la arquitectura de la vida. Al identificar visualmente la <strong>estructura de las células</strong> <strong>procariotas y eucariotas (animales y vegetales),</strong> el alumnado logra integrar cómo la <strong>morfología celular</strong> determina su <strong>función biológica.</strong> El reconocimiento preciso de cada orgánulo —como las<strong> mitocondrias</strong> para la energía, el <strong>núcleo</strong> para la herencia o los <strong>cloroplastos</strong> para la fotosíntesis— permite que el estudiante deje de ver conceptos aislados y empiece a interpretar la célula como una maquinaria perfectamente coordinada. Esta destreza visual es el primer paso crítico para avanzar con éxito hacia disciplinas más complejas como la <strong>histología, la genética o la fisiología médica</strong>.</p>\n<p style=\"text-align: justify;\">Para ello, <strong>la actividad consiste</strong> en la <strong>cumplimentación y entrega del atlas mudo</strong> que aparece <strong>adjunto como PDF</strong> debajo de los distintos tipos de células y sus orgánulos.</p>\n<p style=\"text-align: justify;\">Se realizará por parejas <strong>(agrupamiento).</strong> </p>\n<p style=\"text-align: justify;\">La <strong>duración </strong>aproximada de la actividad es de<strong> 30 minutos. </strong> </p>\n<p style=\"text-align: justify;\">Como <strong>herramientas</strong> se necesitan la <strong>ficha del atlas mudo</strong> en cuestión que se adjunta debajo, y que también está disponible en formato digital en <strong>Google Classroom</strong> y en<strong> Padlet. </strong></p>\n<p style=\"text-align: justify;\">La actividad se llevará a cabo en el <strong>aula. (Ubicación).</strong> </p>\n<p style=\"text-align: justify;\"><embed width=\"100%\" height=\"300\" src=\"{{context_path}}/content/resources/ATLAS CÉLULAS.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofju7n8-am5gucxw5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final: Informe de prácticas y podcast científicos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final: Informe de prácticas y podcast científicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Producto final: Informe de prácticas y podcast científicos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofju7n8-am5gucxw5</odePageId>
+      <odeBlockId>block-1777196826134-83wv6rd7y</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofju7n8-am5gucxw5</odePageId>
+          <odeBlockId>block-1777196826134-83wv6rd7y</odeBlockId>
+          <odeIdeviceId>idevice-1777196826131-2isd61uio</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1408px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_fe6vkpfe6vkpfe6v.png" width="1408" height="768" alt="" />
+<figcaption class="figcaption"><span class="author">Imagen generada con IA.</span>. <span class="title"><em>SdA: Viaje al interior de la vida: explorando la célula.</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Gemini/Nanobanana. Uso educativo.</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: justify;"><span style="color: #ba372a;"><strong>DESCRIPCIÓN Y JUSTIFICACIÓN DEL PRODUCTO FINAL</strong></span></p>
+<p style="text-align: justify;">Para el <strong>desarrollo del producto final de la SdA</strong> propuesta para mi alumnado de <strong>4º ESO</strong>, de la materia de <strong>Biología y Geología</strong>: “<span style="color: #ba372a;"><strong>Viaje al interior de la vida: explorando la célula”,</strong></span> propongo utilizar la herramienta <strong><span style="color: #ba372a;">Canva </span></strong>para que el alumnado presente el <strong>informe de prácticas de laboratorio</strong> y <span style="color: #ba372a;"><strong>Audacity</strong></span> para exponer a modo <strong>podcast,</strong> sus <strong>conclusiones finales</strong> sobre lo visto y trabajado en esta SdA. </p>
+<p style="text-align: justify;">El <strong>objetivo </strong>de emplear estas herramientas es poner en práctica y <strong>mejorar la competencia digital de mi alumnado</strong>, a la vez de aportarle a la realización de una práctica de laboratorio una <strong>visión más actual y motivadora. </strong></p>
+<p style="text-align: justify;">La <strong>elección de estas herramientas <span style="color: #ba372a;">se justifica</span></strong> por varias razones:</p>
+<p style="text-align: justify;">- <strong>Edad, características y competencia digital:</strong> El alumnado de 4º ESO ya posee competencias digitales básicas y durante los cursos anteriores hemos trabajado con Canva. Además, al cursar materias como <strong>Computación y Robótica</strong> han mejorado sus habilidades en esta aplicación. Por otro lado, al estar desarrollando <strong>en mi centro la radio escolar</strong>, el alumnado ya ha grabado y editado<strong> podcast</strong>, empleando <strong>Audacity. </strong></p>
+<p style="text-align: justify;">- <strong>Contexto, accesibilidad y disponibilidad: </strong>En el centro disponemos de <strong>aula de informática</strong> a reservar en las horas que se vayan a usar, independiente de la materia, y carrito de ordenadores portátiles con la herramienta digital <strong>Audacity ya instalada. </strong>También se tiene<strong> equipo de grabación con auriculares y micrófono</strong>. Además, al disponer todo el alumnado de correo electrónico corporativo con <strong>cuentas g.educaand</strong>, tienen  acceso gratuito a Canva educativo. </p>
+<p style="text-align: justify;">- <strong>Versatilidad</strong>: La versatilidad de Canva y Audacity los convierte en herramientas especialmente útiles para trabajar con alumnado de 4º de ESO, ya que permiten <strong>desarrollar múltiples competencias de forma creativa e interdisciplinar.</strong> Por un lado,<strong> Canva facilita la creación de presentaciones, infografías, pósteres científicos o vídeos explicativos, </strong>lo que ayuda al alumnado a organizar y comunicar la información de manera visual y atractiva. Además, su uso <strong>fomenta la competencia digital,</strong> el <strong>sentido estético y la capacidad de síntesis</strong>. Por otro lado,<strong> Audacity permite grabar, editar y mezclar audio, siendo ideal para la elaboración de podcasts, entrevistas o explicaciones orales</strong> <strong>sobre contenidos científicos. </strong>Esto <strong>potencia la expresión oral, la creatividad y el trabajo colaborativo.</strong></p>
+<p style="text-align: justify;">Finalmente, me gustaría resaltar que el <strong>uso combinado de ambas herramientas favorece metodologías activas empleando herramientas digitales,</strong> ya que el alumnado no solo adquiere conocimientos, sino que los aplica en productos finales propios, desarrollando autonomía, pensamiento crítico y habilidades comunicativas, a la vez que se motiva a seguir aprendiendo. </p>
+<p style="text-align: justify;"><span style="color: #ba372a;"><strong>¿EN QUÉ CONSISTEN LAS TAREAS PROPUESTAS COMO PRODUCTO FINAL DE LA SDA?</strong></span></p>
+<p style="text-align: justify;"><span style="color: #ba372a;"><strong>1. INFORME CIENTÍFICO DIGITAL ELABORADO CON CANVA</strong></span></p>
+<p style="text-align: justify;"><span style="color: #000000;">La tarea consiste en la elaboración de un informe de la práctica de laboratorio realizada, mediante <strong>Canva</strong>, siguiendo el método científico. </span></p>
+<p style="text-align: justify;"><span style="color: #000000;">Se llevará a cabo en <strong>grupos de 3 alumnos/as. (Agrupamientos).</strong></span></p>
+<p style="text-align: justify;"><span style="color: #000000;">La <strong>duración aproximada es de 1 sesión lectiva de 1 hora. </strong></span></p>
+<p style="text-align: justify;"><span style="color: #000000;">Las <strong>herramientas </strong>que se van a necesitar son el guion de prácticas facilitado por la profesora en formato digital, disponible en Google Classroo y Padlet, Canva y ordenador/tablet con acceso o conexión a internet.  </span></p>
+<p style="text-align: justify;">La tarea se llevará a cabo en el aula de referencia <strong>(Ubicación).</strong> </p>
+<p style="text-align: justify;"><span style="color: #ba372a;"><strong>2. GRABACIÓN Y EDICIÓN DE PODCAST CIENTÍFICO CON AUDACITY</strong></span></p>
+<p style="text-align: justify;"><span style="color: #000000;">La tarea consiste en la <strong>creación de un podcast con Audacity, </strong>en el que se incluya un análisis final de la práctica a modo conclusión. La duración del podcast deberá ser de unos <strong>2-3 minutos</strong>. Podrá contener <strong>efectos especiales de edición</strong>, sonidos, onomatopeyas, etc. </span></p>
+<p style="text-align: justify;"><span style="color: #000000;"><strong>Agrupamientos: grupos de 3 alumnos/as, </strong>los mismos que para la creación del Canva, puesto que <strong>ambas actividades constituyen el producto final. </strong></span></p>
+<p style="text-align: justify;"><span style="color: #000000;"><strong>Duración aproximada: </strong>30 minutos. </span></p>
+<p style="text-align: justify;"><span style="color: #000000;"><strong>Herramientas</strong> que se van a emplear: <strong>Ordenador con Audacity y micrófono. </strong></span></p>
+<p style="text-align: justify;"><span style="color: #000000;"><strong>Ubicación:</strong> aula ordinaria y aula de grabación. Se podrá hacer uso también del aula de informática del centro. </span><span style="color: #000000;"></span></p>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777196826131-2isd61uio","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1408px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_fe6vkpfe6vkpfe6v.png\" width=\"1408\" height=\"768\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Imagen generada con IA.</span>. <span class=\"title\"><em>SdA: Viaje al interior de la vida: explorando la célula.</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Gemini/Nanobanana. Uso educativo.</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\"><span style=\"color: #ba372a;\"><strong>DESCRIPCIÓN Y JUSTIFICACIÓN DEL PRODUCTO FINAL</strong></span></p>\n<p style=\"text-align: justify;\">Para el <strong>desarrollo del producto final de la SdA</strong> propuesta para mi alumnado de <strong>4º ESO</strong>, de la materia de <strong>Biología y Geología</strong>: “<span style=\"color: #ba372a;\"><strong>Viaje al interior de la vida: explorando la célula”,</strong></span> propongo utilizar la herramienta <strong><span style=\"color: #ba372a;\">Canva </span></strong>para que el alumnado presente el <strong>informe de prácticas de laboratorio</strong> y <span style=\"color: #ba372a;\"><strong>Audacity</strong></span> para exponer a modo <strong>podcast,</strong> sus <strong>conclusiones finales</strong> sobre lo visto y trabajado en esta SdA. </p>\n<p style=\"text-align: justify;\">El <strong>objetivo </strong>de emplear estas herramientas es poner en práctica y <strong>mejorar la competencia digital de mi alumnado</strong>, a la vez de aportarle a la realización de una práctica de laboratorio una <strong>visión más actual y motivadora. </strong></p>\n<p style=\"text-align: justify;\">La <strong>elección de estas herramientas <span style=\"color: #ba372a;\">se justifica</span></strong> por varias razones:</p>\n<p style=\"text-align: justify;\">- <strong>Edad, características y competencia digital:</strong> El alumnado de 4º ESO ya posee competencias digitales básicas y durante los cursos anteriores hemos trabajado con Canva. Además, al cursar materias como <strong>Computación y Robótica</strong> han mejorado sus habilidades en esta aplicación. Por otro lado, al estar desarrollando <strong>en mi centro la radio escolar</strong>, el alumnado ya ha grabado y editado<strong> podcast</strong>, empleando <strong>Audacity. </strong></p>\n<p style=\"text-align: justify;\">- <strong>Contexto, accesibilidad y disponibilidad: </strong>En el centro disponemos de <strong>aula de informática</strong> a reservar en las horas que se vayan a usar, independiente de la materia, y carrito de ordenadores portátiles con la herramienta digital <strong>Audacity ya instalada. </strong>También se tiene<strong> equipo de grabación con auriculares y micrófono</strong>. Además, al disponer todo el alumnado de correo electrónico corporativo con <strong>cuentas g.educaand</strong>, tienen  acceso gratuito a Canva educativo. </p>\n<p style=\"text-align: justify;\">- <strong>Versatilidad</strong>: La versatilidad de Canva y Audacity los convierte en herramientas especialmente útiles para trabajar con alumnado de 4º de ESO, ya que permiten <strong>desarrollar múltiples competencias de forma creativa e interdisciplinar.</strong> Por un lado,<strong> Canva facilita la creación de presentaciones, infografías, pósteres científicos o vídeos explicativos, </strong>lo que ayuda al alumnado a organizar y comunicar la información de manera visual y atractiva. Además, su uso <strong>fomenta la competencia digital,</strong> el <strong>sentido estético y la capacidad de síntesis</strong>. Por otro lado,<strong> Audacity permite grabar, editar y mezclar audio, siendo ideal para la elaboración de podcasts, entrevistas o explicaciones orales</strong> <strong>sobre contenidos científicos. </strong>Esto <strong>potencia la expresión oral, la creatividad y el trabajo colaborativo.</strong></p>\n<p style=\"text-align: justify;\">Finalmente, me gustaría resaltar que el <strong>uso combinado de ambas herramientas favorece metodologías activas empleando herramientas digitales,</strong> ya que el alumnado no solo adquiere conocimientos, sino que los aplica en productos finales propios, desarrollando autonomía, pensamiento crítico y habilidades comunicativas, a la vez que se motiva a seguir aprendiendo. </p>\n<p style=\"text-align: justify;\"><span style=\"color: #ba372a;\"><strong>¿EN QUÉ CONSISTEN LAS TAREAS PROPUESTAS COMO PRODUCTO FINAL DE LA SDA?</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"color: #ba372a;\"><strong>1. INFORME CIENTÍFICO DIGITAL ELABORADO CON CANVA</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"color: #000000;\">La tarea consiste en la elaboración de un informe de la práctica de laboratorio realizada, mediante <strong>Canva</strong>, siguiendo el método científico. </span></p>\n<p style=\"text-align: justify;\"><span style=\"color: #000000;\">Se llevará a cabo en <strong>grupos de 3 alumnos/as. (Agrupamientos).</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"color: #000000;\">La <strong>duración aproximada es de 1 sesión lectiva de 1 hora. </strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"color: #000000;\">Las <strong>herramientas </strong>que se van a necesitar son el guion de prácticas facilitado por la profesora en formato digital, disponible en Google Classroo y Padlet, Canva y ordenador/tablet con acceso o conexión a internet.  </span></p>\n<p style=\"text-align: justify;\">La tarea se llevará a cabo en el aula de referencia <strong>(Ubicación).</strong> </p>\n<p style=\"text-align: justify;\"><span style=\"color: #ba372a;\"><strong>2. GRABACIÓN Y EDICIÓN DE PODCAST CIENTÍFICO CON AUDACITY</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"color: #000000;\">La tarea consiste en la <strong>creación de un podcast con Audacity, </strong>en el que se incluya un análisis final de la práctica a modo conclusión. La duración del podcast deberá ser de unos <strong>2-3 minutos</strong>. Podrá contener <strong>efectos especiales de edición</strong>, sonidos, onomatopeyas, etc. </span></p>\n<p style=\"text-align: justify;\"><span style=\"color: #000000;\"><strong>Agrupamientos: grupos de 3 alumnos/as, </strong>los mismos que para la creación del Canva, puesto que <strong>ambas actividades constituyen el producto final. </strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"color: #000000;\"><strong>Duración aproximada: </strong>30 minutos. </span></p>\n<p style=\"text-align: justify;\"><span style=\"color: #000000;\"><strong>Herramientas</strong> que se van a emplear: <strong>Ordenador con Audacity y micrófono. </strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"color: #000000;\"><strong>Ubicación:</strong> aula ordinaria y aula de grabación. Se podrá hacer uso también del aula de informática del centro. </span><span style=\"color: #000000;\"></span></p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofju7n8-hf0825rjj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofju7n8-hf0825rjj</odePageId>
+      <odeBlockId>block-1776891969940-swi9n5bsj</odeBlockId>
+      <blockName>Detalle de los instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofju7n8-hf0825rjj</odePageId>
+          <odeBlockId>block-1776891969940-swi9n5bsj</odeBlockId>
+          <odeIdeviceId>idevice-1776891969938-x45iiigam</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1408px;"><img src="{{context_path}}/content/resources/Gemini_Generated_Image_3v1zw63v1zw63v1z (1).png" width="1408" height="768" alt="" />
+<figcaption class="figcaption"><span class="author">Imagen generada con IA</span>. <span class="title"><em>SdA: Viaje al interior de la vida: explorando la célula.</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Gemini/Nanobanana. Uso educativo</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: justify;">En el contexto de la <strong>materia de Biología y Geología</strong> en <strong>Secundaria</strong>, los<strong> instrumentos de evaluación</strong> actúan como las herramientas de precisión que permiten al docente "observar" y <strong>medir el desarrollo de las competencias específicas</strong> en una <strong>situación de aprendizaje.</strong> Lejos de reducirse a una calificación numérica, estos instrumentos deben ser<strong> variados</strong> y estar alineados con los criterios de evaluación, permitiendo capturar la complejidad de procesos como la <strong>aplicación del método científico,</strong> la destreza en el <strong>uso del microscopio</strong> o la capacidad de <strong>comunicar resultados</strong> de forma ética y rigurosa. En un enfoque de <strong>evaluación formativa</strong>, el uso de <strong>rúbricas </strong>detalladas, diarios de laboratorio y registros de observación directa transforma la evaluación en un proceso transparente y continuo, donde el alumnado deja de ser un receptor pasivo para convertirse en protagonista de su propia evolución académica.</p>
+<p style="text-align: justify;"><embed width="100%" height="300" src="{{context_path}}/content/resources/8.1. INSTRUMENTOS DE EVALUACIÓN.pdf" type="application/pdf"></embed><a href="https://drive.google.com/file/d/1a1LbHAjnHOfwz1-6mvy4OinDhaIxUOqM/view?usp=sharing" title="ENLACE A LOS INSTRUMENTOS DE EVALUACIÓN" target="_blank" rel="noopener">ENLACE A LOS ISNTRUMENTOS DE EVALUACIÓN</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776891969938-x45iiigam","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1408px;\"><img src=\"{{context_path}}/content/resources/Gemini_Generated_Image_3v1zw63v1zw63v1z (1).png\" width=\"1408\" height=\"768\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Imagen generada con IA</span>. <span class=\"title\"><em>SdA: Viaje al interior de la vida: explorando la célula.</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Gemini/Nanobanana. Uso educativo</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\">En el contexto de la <strong>materia de Biología y Geología</strong> en <strong>Secundaria</strong>, los<strong> instrumentos de evaluación</strong> actúan como las herramientas de precisión que permiten al docente \"observar\" y <strong>medir el desarrollo de las competencias específicas</strong> en una <strong>situación de aprendizaje.</strong> Lejos de reducirse a una calificación numérica, estos instrumentos deben ser<strong> variados</strong> y estar alineados con los criterios de evaluación, permitiendo capturar la complejidad de procesos como la <strong>aplicación del método científico,</strong> la destreza en el <strong>uso del microscopio</strong> o la capacidad de <strong>comunicar resultados</strong> de forma ética y rigurosa. En un enfoque de <strong>evaluación formativa</strong>, el uso de <strong>rúbricas </strong>detalladas, diarios de laboratorio y registros de observación directa transforma la evaluación en un proceso transparente y continuo, donde el alumnado deja de ser un receptor pasivo para convertirse en protagonista de su propia evolución académica.</p>\n<p style=\"text-align: justify;\"><embed width=\"100%\" height=\"300\" src=\"{{context_path}}/content/resources/8.1. INSTRUMENTOS DE EVALUACIÓN.pdf\" type=\"application/pdf\"></embed><a href=\"https://drive.google.com/file/d/1a1LbHAjnHOfwz1-6mvy4OinDhaIxUOqM/view?usp=sharing\" title=\"ENLACE A LOS INSTRUMENTOS DE EVALUACIÓN\" target=\"_blank\" rel=\"noopener\">ENLACE A LOS ISNTRUMENTOS DE EVALUACIÓN</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofju7n8-yzfbp6jx3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofju7n8-yzfbp6jx3</odePageId>
+      <odeBlockId>block-1777200235936-9f2vthres</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofju7n8-yzfbp6jx3</odePageId>
+          <odeBlockId>block-1777200235936-9f2vthres</odeBlockId>
+          <odeIdeviceId>idevice-1777200235933-efme9newp</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SDA: VIAJE AL INTERIOR DE LA VIDA: EXPLORANDO LA CÉLULA</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Este proyecto persigue que el alumnado de 4º ESO de la materia de Biología y Geología conozca desde un punto de vista competencial y divertido las células, sus tipos, diferencias, funcionalidad y orgánulos celulares. Para ello, seguirán el método científico y emplearán múltiples herramientas digitales como: Google Classroom, Padlet, Symbaloo, Canva y Audacity. </span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Mª del Carmen Gálvez Carmona</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
